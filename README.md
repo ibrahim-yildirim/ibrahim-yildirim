@@ -1,4 +1,4 @@
 - 👋 Hi, I’m İbrahim Yıldırım
-- I’m Mechatronics Engineer who interested in data and coding.
+- I’m Mechatronics Engineer who interested in coding.
 - I’m currently learning: HTML,CSS,JS
 - How to reach me: yildirim.ibm@gmail.com
