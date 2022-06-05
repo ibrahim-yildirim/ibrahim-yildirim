@@ -1,4 +1,4 @@
 - 👋 Hi, I’m İbrahim Yıldırım
 - I’m Mechatronics Engineer who interested in coding.
-- I’m currently learning: HTML,CSS,JS
+- I’m currently learning: Angular,TypeScript
 - How to reach me: yildirim.ibm@gmail.com
