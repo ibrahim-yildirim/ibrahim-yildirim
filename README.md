@@ -13,6 +13,9 @@
 
 <a href="https://github.com/ibrahim-yildirim"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-yildirim&theme=codeSTACKr" /></a><a href="https://github.com/ibrahim-yildirim"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-yildirim&bg_color=0d1117&theme=algolia&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=compact&langs_count=10" /></a>
 
+<br>
+<br>
+
 **Languages and Tools**
 
 
@@ -25,4 +28,12 @@
 <code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
 
-- How to reach me: yildirim.ibm@gmail.com
+
+### Contact me:
+<div background-color:white >
+<a href="https://github.com/ibrahim-yildirim" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60px" ></a>
+
+
+<a href="mailto:yildirim.ibm@gmail.com" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="60px"></a>
+  
+</div>
