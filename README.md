@@ -31,8 +31,8 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/yildirim-ibrahim/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" ></a>
+<a href="https://www.linkedin.com/in/yildirim-ibrahim/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" height="35px"></a>  <a href="mailto:yildirim.ibm@gmail.com" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="35px" height="35px"></a>
 
 
-<a href="mailto:yildirim.ibm@gmail.com" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="40px"></a>
+
   
