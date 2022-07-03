@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<a href="https://github.com/ibrahim-yildirim"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-yildirim&theme=codeSTACKr" /></a><a href="https://github.com/ibrahim-yildirim"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-yildirim&bg_color=000000&theme=algolia&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/ibrahim-yildirim"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-yildirim&theme=codeSTACKr" /></a><a href="https://github.com/ibrahim-yildirim"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-yildirim&theme=codeSTACKr&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=compact&langs_count=10" /></a>
 
 <br>
 <br>
